@@ -1,6 +1,6 @@
 # Управление студентами и учебными группами
 
-React + FastAPI + отдельный FastAPI-сервис отчётов + PostgreSQL + Docker Compose.
+React, FastAPI, отдельный FastAPI-сервис отчётов, PostgreSQL, Docker Compose
 
 ## Требования
 
